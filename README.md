@@ -5,10 +5,10 @@
 <p align="center">
   
 ```
-                                          🚧 Practice In Progress
+                                            🚧 Practice In Progress
 
-                              This project is part of my learning and practice.  
-                              Improvements and updates will be added over time.
+                                This project is part of my learning and practice.  
+                                Improvements and updates will be added over time.
 ```
 </p>
 <p align="center">
