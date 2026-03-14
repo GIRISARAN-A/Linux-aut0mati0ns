@@ -1,14 +1,14 @@
 <p  align="center">
-<img width="365" height="235" alt="Image" src="https://github.com/user-attachments/assets/0e6c8053-7fa0-4301-b180-3ecdc9b2821d" />
+<img width="285" height="185" alt="Image" src="https://github.com/user-attachments/assets/0e6c8053-7fa0-4301-b180-3ecdc9b2821d" />
 </p>
 
 <p align="center">
   
-```
-                                              🚧 Practice In Progress
+```text
+🚧 Practice In Progress
   
-                                   This project is part of my learning and practice.  
-                                   Improvements and updates will be added over time.
+This project is part of my learning and practice.  
+Improvements and updates will be added over time.
 ```
 </p>
 <p align="center">
