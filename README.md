@@ -1,9 +1,13 @@
 # Bash Automation Scripts
 
 <p  align="center">
-<img width="285" height="185" alt="Image" src="https://github.com/user-attachments/assets/0e6c8053-7fa0-4301-b180-3ecdc9b2821d" />
-</p>
 
+ <br>
+<img width="151" height="213" alt="Image" src="https://github.com/user-attachments/assets/fff7e25f-687e-40e2-9cb4-50d2bcb46299" />
+
+<br>
+ 
+</p>
 
 
 A clean collection of **Bash scripts for file automation, system maintenance, and useful Linux utilities**.
@@ -156,6 +160,10 @@ script_collection/
 - `simple_todo.sh`
 - `file_organizer.sh`
 
+
+<p  align="center">
+<img width="285" height="185" alt="Image" src="https://github.com/user-attachments/assets/0e6c8053-7fa0-4301-b180-3ecdc9b2821d" />
+</p>
 
 ##  Features
 
