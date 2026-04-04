@@ -28,6 +28,9 @@ This repository is split into **3 main sections** for better organization and qu
 ### 📁 file_automations
 Scripts focused on **file and folder operations**.
 
+<p style="text-align:center;">
+ visit code : <a href="https://github.com/GIRISARAN-A/Linux-aut0mati0ns/tree/main/file_automations">file_automations</a>
+</p>
 
 ```bash
 Linux@ubuntu:~/Linux-aut0mati0ns:# tree file_automations/
@@ -72,6 +75,10 @@ file_automations/
 ### 🖥️ system_automations
 Scripts for **Linux system monitoring and maintenance**.
 
+<p style="text-align:center;">
+ visit code : <a href="https://github.com/GIRISARAN-A/Linux-aut0mati0ns/tree/main/system_automations">system_automations</a>
+</p>
+
 ```bash
 
 Linux@ubuntu:~/Linux-aut0mati0ns:# tree system_automations/
@@ -107,6 +114,10 @@ system_automations/
 
 ### $ script_collection
 A collection of **general-purpose reusable Bash utilities**.
+
+<p style="text-align:center;">
+ visit code : <a href="https://github.com/GIRISARAN-A/Linux-aut0mati0ns/tree/main/script_collection">script_collection</a>
+</p>
 
 ```bash
 Linux@ubuntu:~/Linux-aut0mati0ns:# tree script_collection/
